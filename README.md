@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mukaan Rajput. I am B.Tech pre-final year student.
+I am Mukaan Rajput. I am B.Tech Final year student.
 
 - 🔭 I’m currently working on my Coding skills and Frontend Devlopement skills
 - 🌱 I’m currently learning Javascript
