@@ -79,7 +79,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskaanrajput14&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+ [![Muskaan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muskaanrajput14)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
