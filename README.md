@@ -76,7 +76,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
- [![Muskaan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muskaanrajput14)](https://github.com/muskaanrajput14/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskaanrajput14)](https://github.com/muskaanrajput14/github-readme-stats)
 </div>
 
 
