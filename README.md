@@ -76,7 +76,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
-  [![Muskaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskaanrajput14)](https://github.com/muskaanrajput14)
+<!--   [![Muskaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskaanrajput14)](https://github.com/muskaanrajput14) -->
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
