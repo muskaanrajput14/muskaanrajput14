@@ -84,7 +84,9 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+</div>
 ###
 
 <h3 align="left">🔥   My Badges :</h3>
