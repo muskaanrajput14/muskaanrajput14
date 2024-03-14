@@ -74,7 +74,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Badges :</h3>
 
 ###
 - [![An image of @muskaan_rajput_'s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muskaan_rajput_)](https://holopin.io/@muskaan_rajput_)
