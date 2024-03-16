@@ -18,6 +18,8 @@
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **muskaanrajput14@gmail.com**
+- 💚 Current obsession: Finding joy in the sea of green ticks and vibrant contribution blocks on GitHub!
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
