@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muskaan Rajput</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Salesforce CRM Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskaanrajput14" alt="muskaanrajput14" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Coding skills and Devlopement skills**
-- 🌱 I’m currently learning **MERN**
-- 👯 I’m looking to collaborate on **DSA Questions in C++ and Web dev projects**
-- 🤝 I’m looking for help with **MERN and Django projects**
+- 🌱 I’m currently learning **CRM**
+- 👯 I’m looking to collaborate on **DSA Questions in C++/JAVA and CRM**
+- 🤝 I’m looking for help with **CRM/Django/AI-ML projects**
 - 👨‍💻 Find all my projects at my GitHub repository.
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **muskaanrajput14@gmail.com**
